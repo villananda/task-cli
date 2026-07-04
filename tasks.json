@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "description": "Beli barang",
+    "status": "todo",
+    "createdAt": "2026-07-04T11:23:54.309521159+07:00",
+    "updatedAt": "2026-07-04T11:23:54.309521212+07:00"
+  },
+  {
+    "id": 2,
+    "description": "Beli perlengkapan",
+    "status": "todo",
+    "createdAt": "2026-07-04T11:24:34.150333701+07:00",
+    "updatedAt": "2026-07-04T11:24:34.150333747+07:00"
+  },
+  {
+    "id": 3,
+    "description": "Beli perlengkapan",
+    "status": "in-progress",
+    "createdAt": "2026-07-04T11:24:40.222465679+07:00",
+    "updatedAt": "2026-07-04T11:24:40.222465728+07:00"
+  },
+  {
+    "id": 4,
+    "description": "Belajar bahasa Go",
+    "status": "done",
+    "createdAt": "2026-07-04T11:24:50.837197855+07:00",
+    "updatedAt": "2026-07-04T11:24:50.837197905+07:00"
+  }
+]
